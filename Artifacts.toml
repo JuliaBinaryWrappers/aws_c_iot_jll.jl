@@ -1,0 +1,135 @@
+[[aws_c_iot]]
+arch = "aarch64"
+git-tree-sha1 = "1bdb248dd0758172317ea817c18f4d4fa21293af"
+os = "macos"
+
+    [[aws_c_iot.download]]
+    sha256 = "12b9547c91c2f91634177c6cade517475fbf143b25c44ff386da3b24da145672"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.aarch64-apple-darwin.tar.gz"
+[[aws_c_iot]]
+arch = "aarch64"
+git-tree-sha1 = "a973bc80d795eccc604aebcc2e9b51bd6a87075f"
+libc = "glibc"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "5fe3335ee65f2d7ed3ff5c1aa0f5eeae0eceb17f4c72fff408ff08abc3caafe2"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.aarch64-linux-gnu.tar.gz"
+[[aws_c_iot]]
+arch = "aarch64"
+git-tree-sha1 = "543fd9f07300615c0567d84fb8086f3223736df3"
+libc = "musl"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "278cc834ebf152c00204bbbe2ffbf207a152ccc25b0174ab50445404c9f8d739"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.aarch64-linux-musl.tar.gz"
+[[aws_c_iot]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b1becfaaecb5b7c952dbf64cc3fd343ebf48e880"
+libc = "glibc"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "8ff506b2becde83c5d8e87a0fff9d220b8de54ab158ddf155ad9879adc5b3744"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.armv6l-linux-gnueabihf.tar.gz"
+[[aws_c_iot]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4e21b8ba6eab82821522ecf7044331fe95f8d1ab"
+libc = "musl"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "3106eb2d7373a31c9c6d141fd919556207cb00245929cf1827a46bf970650218"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.armv6l-linux-musleabihf.tar.gz"
+[[aws_c_iot]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2dbe818816d23c2619b90c7bbc60e810aeaf0240"
+libc = "glibc"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "2057673edc49c20b65c9129fdd3082696c6d455130c6fec95f6b79725a3caa6b"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.armv7l-linux-gnueabihf.tar.gz"
+[[aws_c_iot]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d42b39a1a24ad938d74f5e0289b3b0bdec66c74c"
+libc = "musl"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "6813867ae6241f9b40a49ba4b393d27abf220b797f5aa202f93f8d6bdb7a8dea"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.armv7l-linux-musleabihf.tar.gz"
+[[aws_c_iot]]
+arch = "i686"
+git-tree-sha1 = "bacda6640725537461da1df528d995e98589e61b"
+libc = "glibc"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "daa694a57a59b41372657fe146709dae4c60025f3ccc5c91a8f83dfd8b827c1e"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.i686-linux-gnu.tar.gz"
+[[aws_c_iot]]
+arch = "i686"
+git-tree-sha1 = "9e243560a33e0659a6af5594ad1484b9106e111c"
+libc = "musl"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "9b94c491b044180cd7e157c4757f3133cebc78657aaf3dc9100a50e1e15a4d03"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.i686-linux-musl.tar.gz"
+[[aws_c_iot]]
+arch = "powerpc64le"
+git-tree-sha1 = "57fa8adcb1e6ca75a3a44965b15d6624ee1580bc"
+libc = "glibc"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "7d6cc6016bacf97ceb2fe93ac005ddfacead384b30629bac009d45c6a3451d6d"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.powerpc64le-linux-gnu.tar.gz"
+[[aws_c_iot]]
+arch = "x86_64"
+git-tree-sha1 = "8ad5c0d99f7bb087ab351d37a30fdf4ed3ad065c"
+os = "macos"
+
+    [[aws_c_iot.download]]
+    sha256 = "2f9a3d8844dc8a7cd4e09a262ccbb0fb79aa7ff3692814ab8bc6ad5517f23600"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.x86_64-apple-darwin.tar.gz"
+[[aws_c_iot]]
+arch = "x86_64"
+git-tree-sha1 = "d2302a2641e05456eeb4861ab7bcaa520eedf206"
+libc = "glibc"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "ddf34b33dfaec8aea823344d55f09ec66f303899b713a45bd879f4d72367900a"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.x86_64-linux-gnu.tar.gz"
+[[aws_c_iot]]
+arch = "x86_64"
+git-tree-sha1 = "690dea0b1720e652b94cb1620aa708f6a3ac01ae"
+libc = "musl"
+os = "linux"
+
+    [[aws_c_iot.download]]
+    sha256 = "ecd6fbf33d7bb27c88fbd7d19ce4e6d9171a697220887362e5261c2ebd0aa689"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.x86_64-linux-musl.tar.gz"
+[[aws_c_iot]]
+arch = "x86_64"
+git-tree-sha1 = "6238f0e9f6e66d025826a97caf94f1010a044be9"
+os = "freebsd"
+
+    [[aws_c_iot.download]]
+    sha256 = "b18039c3101cc51b06caa8b939b480ff0d7dc3662cbf0b30344a68062b6a1fe6"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.x86_64-unknown-freebsd.tar.gz"
+[[aws_c_iot]]
+arch = "x86_64"
+git-tree-sha1 = "bbf27c1486e39cfe40a2f0cb0dad84ea04bbf02e"
+os = "windows"
+
+    [[aws_c_iot.download]]
+    sha256 = "4763e87e75d644ba33b06b5df3b52970e185db185cef64e3bb996558baf3e590"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_iot_jll.jl/releases/download/aws_c_iot-v0.1.17+0/aws_c_iot.v0.1.17.x86_64-w64-mingw32.tar.gz"
